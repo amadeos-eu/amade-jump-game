@@ -209,6 +209,15 @@ tasks.register('windowsInstaller') {
     }
 }
 
+// How long the frames of each level take: ./gradlew benchmark (needs a display; xvfb-run on servers)
+tasks.register('benchmark', JavaExec) {
+    description = 'Measures the frame times of the levels'
+    group = 'verification'
+    classpath = sourceSets.test.runtimeClasspath
+    mainClass = 'eu.amadeos.games.jump.ui.game.Benchmark'
+    jvmArgs '--enable-native-access=ALL-UNNAMED'
+}
+
 // The screenshots of chapter 27, drawn without a screen: ./gradlew screenshots -Pshots=<folder>
 tasks.register('screenshots', JavaExec) {
     description = 'Draws the screenshots of the handbook chapter'
