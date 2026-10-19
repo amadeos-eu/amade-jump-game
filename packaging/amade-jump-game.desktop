@@ -1,0 +1,24 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=amadeOS Jump
+Name[de]=amadeOS Jump
+Name[fr]=amadeOS Jump
+Name[es]=amadeOS Jump
+Name[it]=amadeOS Jump
+GenericName=Platform Game
+GenericName[de]=Jump-and-Run-Spiel
+GenericName[fr]=Jeu de plateformes
+GenericName[es]=Juego de plataformas
+GenericName[it]=Gioco a piattaforme
+Comment=Run and jump through a meadow, caves and the clouds, collect coins and reach the flag
+Comment[de]=Laufen und springen Sie über eine Wiese, durch Höhlen und Wolken, sammeln Sie Münzen und erreichen Sie die Fahne
+Comment[fr]=Courez et sautez à travers une prairie, des grottes et les nuages, ramassez les pièces et atteignez le drapeau
+Comment[es]=Corra y salte por una pradera, cuevas y las nubes, recoja monedas y llegue a la bandera
+Comment[it]=Corri e salta attraverso un prato, grotte e nuvole, raccogli le monete e raggiungi la bandiera
+Icon=amade-jump-game
+Exec=/usr/bin/amade-jump-game
+Terminal=false
+Categories=Game;ArcadeGame;
+Keywords=platformer;jump;run;levels;coins;gamepad;arcade;game;
+StartupNotify=true
