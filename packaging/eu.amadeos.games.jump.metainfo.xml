@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- AppStream metadata of amade-jump-game, installed as /usr/share/metainfo/eu.amadeos.games.jump.metainfo.xml.
+     amadeOS Software shows it for the installed package; a repository's appstream-generator reads it too. -->
+<component type="desktop-application">
+  <id>eu.amadeos.games.jump</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>EUPL-1.2</project_license>
+
+  <name>amadeOS Jump</name>
+
+  <summary>Run and jump through a meadow, caves and the clouds, collect coins and reach the flag</summary>
+  <summary xml:lang="de">Durch eine Wiese, Höhlen und die Wolken laufen und springen, Münzen sammeln und die Fahne erreichen</summary>
+  <summary xml:lang="fr">Courez et sautez à travers une prairie, des grottes et les nuages, ramassez les pièces et atteignez le drapeau</summary>
+  <summary xml:lang="es">Corra y salte por un prado, cuevas y las nubes, recoja monedas y llegue a la bandera</summary>
+  <summary xml:lang="it">Corri e salta attraverso un prato, grotte e le nuvole, raccogli monete e raggiungi la bandiera</summary>
+
+  <description>
+    <p>The platformer of the amadeOS desktop: run and jump through three levels larger than the screen, take the coins, jump on beetles and birds and reach the red flag.</p>
+    <p xml:lang="de">Das Jump-'n'-Run des amadeOS-Desktops: Laufen und springen Sie durch drei Level, größer als der Bildschirm, sammeln Sie die Münzen, springen Sie auf Käfer und Vögel und erreichen Sie die rote Fahne.</p>
+    <p xml:lang="fr">Le jeu de plateformes du bureau amadeOS : courez et sautez à travers trois niveaux plus grands que l'écran, ramassez les pièces, sautez sur les scarabées et les oiseaux et atteignez le drapeau rouge.</p>
+    <p xml:lang="es">El juego de plataformas del escritorio amadeOS: corra y salte por tres niveles más grandes que la pantalla, recoja las monedas, salte sobre escarabajos y pájaros y llegue a la bandera roja.</p>
+    <p xml:lang="it">Il platform del desktop amadeOS: corri e salta attraverso tre livelli più grandi dello schermo, raccogli le monete, salta su scarabei e uccelli e raggiungi la bandiera rossa.</p>
+    <ul>
+      <li>Best times and coins are saved per level</li>
+      <li xml:lang="de">Bestzeiten und Münzen werden pro Level gespeichert</li>
+      <li xml:lang="fr">Les meilleurs temps et les pièces sont enregistrés par niveau</li>
+      <li xml:lang="es">Los mejores tiempos y las monedas se guardan por nivel</li>
+      <li xml:lang="it">I tempi migliori e le monete vengono salvati per livello</li>
+      <li>Keyboard or gamepad</li>
+      <li xml:lang="de">Tastatur oder Gamepad</li>
+      <li xml:lang="fr">Clavier ou manette</li>
+      <li xml:lang="es">Teclado o mando</li>
+      <li xml:lang="it">Tastiera o gamepad</li>
+      <li>Levels made with the Tiled editor</li>
+      <li xml:lang="de">Level aus dem Tiled-Editor</li>
+      <li xml:lang="fr">Niveaux faits avec l'éditeur Tiled</li>
+      <li xml:lang="es">Niveles hechos con el editor Tiled</li>
+      <li xml:lang="it">Livelli fatti con l'editor Tiled</li>
+      <li>Built on amade-game-engine; plays on other operating systems as well</li>
+      <li xml:lang="de">Gebaut auf amade-game-engine; läuft auch auf anderen Betriebssystemen</li>
+      <li xml:lang="fr">Construit sur amade-game-engine ; fonctionne aussi sur d'autres systèmes d'exploitation</li>
+      <li xml:lang="es">Hecho con amade-game-engine; funciona también en otros sistemas operativos</li>
+      <li xml:lang="it">Costruito su amade-game-engine; funziona anche su altri sistemi operativi</li>
+    </ul>
+  </description>
+
+  <launchable type="desktop-id">amade-jump-game.desktop</launchable>
+  <icon type="stock">amade-jump-game</icon>
+  <categories>
+    <category>Game</category>
+    <category>ArcadeGame</category>
+  </categories>
+
+  <url type="homepage">https://github.com/datazuul/amade-jump-game</url>
+  <url type="bugtracker">https://github.com/datazuul/amade-jump-game/issues</url>
+  <developer id="eu.amadeos">
+    <name>amadeOS Project</name>
+  </developer>
+
+  <screenshots>
+    <screenshot type="default">
+      <caption>On the way through the meadow</caption>
+      <caption xml:lang="de">Unterwegs über die Wiese</caption>
+      <caption xml:lang="fr">En route à travers la prairie</caption>
+      <caption xml:lang="es">De camino por el prado</caption>
+      <caption xml:lang="it">In cammino attraverso il prato</caption>
+      <image>https://raw.githubusercontent.com/datazuul/amade-jump-game/main/docs/screenshots/amade-jump-game.png</image>
+    </screenshot>
+  </screenshots>
+
+  <provides>
+    <binary>amade-jump-game</binary>
+  </provides>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">mild</content_attribute>
+  </content_rating>
+</component>
