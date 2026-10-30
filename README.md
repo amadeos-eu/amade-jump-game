@@ -82,7 +82,7 @@ With `../amade-game-engine` (and `../amade-commons`) checked out next to this re
 
 From the engine: `TiledMap` (maps of the Tiled editor), `Camera` and `Parallax`, `Body`, `TileCollider` and `Jump`, `SaveFile`, `TileMap`, `Gamepads`, `GameLoop`, `GameCanvas`, `Sprite` and `SpriteSheet`, `Particles`, `Sound`, `Tune` and `Mixer`, `Keyboard` and `Controls`, `SceneStack`, `FullScreen`.
 
-Comments of the form `// --8<-- [start:name]` mark the excerpts the [Game Developer's Handbook](https://datazuul.github.io/amade-game-engine/) quotes; chapter 27 is about this game.
+Comments of the form `// --8<-- [start:name]` mark the excerpts the [Game Developer's Handbook](https://docs.amadeos.eu/amade-game-engine/) quotes; chapter 27 is about this game.
 
 ## Licence
 
