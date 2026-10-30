@@ -1,6 +1,6 @@
 # amade-jump-game
 
-**amade-jump-game** is the platformer of the [amadeOS](https://github.com/datazuul/amadeos) desktop: run and jump through three levels larger than the screen, a meadow, caves and a climb into the clouds, take the coins, jump on beetles and birds and reach the red flag. The levels are maps of the [Tiled](https://www.mapeditor.org/) editor; best times and coins are saved. Built on [amade-game-engine](https://github.com/datazuul/amade-game-engine); runs on other operating systems as well.
+**amade-jump-game** is the platformer of the [amadeOS](https://github.com/amadeos-eu/amadeos) desktop: run and jump through three levels larger than the screen, a meadow, caves and a climb into the clouds, take the coins, jump on beetles and birds and reach the red flag. The levels are maps of the [Tiled](https://www.mapeditor.org/) editor; best times and coins are saved. Built on [amade-game-engine](https://github.com/amadeos-eu/amade-game-engine); runs on other operating systems as well.
 
 ![License](https://img.shields.io/badge/license-EUPL--1.2-blue)
 ![Java](https://img.shields.io/badge/Java-25-orange)
