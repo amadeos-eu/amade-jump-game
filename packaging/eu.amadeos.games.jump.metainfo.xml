@@ -51,8 +51,8 @@
     <category>ArcadeGame</category>
   </categories>
 
-  <url type="homepage">https://github.com/datazuul/amade-jump-game</url>
-  <url type="bugtracker">https://github.com/datazuul/amade-jump-game/issues</url>
+  <url type="homepage">https://github.com/amadeos-eu/amade-jump-game</url>
+  <url type="bugtracker">https://github.com/amadeos-eu/amade-jump-game/issues</url>
   <developer id="eu.amadeos">
     <name>amadeOS Project</name>
   </developer>
@@ -64,7 +64,7 @@
       <caption xml:lang="fr">En route à travers la prairie</caption>
       <caption xml:lang="es">De camino por el prado</caption>
       <caption xml:lang="it">In cammino attraverso il prato</caption>
-      <image>https://raw.githubusercontent.com/datazuul/amade-jump-game/main/docs/screenshots/amade-jump-game.png</image>
+      <image>https://raw.githubusercontent.com/amadeos-eu/amade-jump-game/main/docs/screenshots/amade-jump-game.png</image>
     </screenshot>
   </screenshots>
 
