@@ -5,6 +5,8 @@
 ![License](https://img.shields.io/badge/license-EUPL--1.2-blue)
 ![Java](https://img.shields.io/badge/Java-25-orange)
 
+![Jump](docs/screenshots/amade-jump-game.png)
+
 ## Playing
 
 - **Space**, **Enter** or button **A** on a gamepad leads from the title to the choice of a level. **Left** and **right** choose, **Space** or **Enter** plays. A level opens when the one before it is finished.
